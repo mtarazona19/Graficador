@@ -1,0 +1,11 @@
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\bin\Debug\Graficador.exe.config
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\bin\Debug\Graficador.exe
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\bin\Debug\Graficador.pdb
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\bin\Debug\Graficador.xml
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\obj\Debug\Graficador.vbprojResolveAssemblyReference.cache
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\obj\Debug\Graficador.Form1.resources
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\obj\Debug\Graficador.Resources.resources
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\obj\Debug\Graficador.vbproj.GenerateResource.Cache
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\obj\Debug\Graficador.exe
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\obj\Debug\Graficador.xml
+E:\Users\Miguel\Desktop\Continental\03 - Tercer Ciclo 2016-2\Evolucion de Software\VS\graficador\Graficador\Graficador\obj\Debug\Graficador.pdb
